@@ -107,5 +107,3 @@ Como foi implementado:
 - Strategy permite diferentes métodos de cálculo de frete.
 - State pode ser implementado para gerenciar os diferentes estados de um pedido.
 - Observer pode notificar o cliente sobre mudanças no status do pedido.
-
-Esse modelo está mais robusto e flexível para uma aplicação real. Gostaria que eu adicionasse mais detalhes ou novos padrões? 🚀
